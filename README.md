@@ -1,1 +1,1 @@
-https://yogagv.github.io/st360/Home.jsx
+https://yogagv.github.io/st360/
